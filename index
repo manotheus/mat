@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!--doctype informa ao agente de usario a versao do html que deve ser renderizado-->
+<html lang="pt-br">
+
+    <!--estrutura da cabeça-->
+    <head>
+        <title>Primeira Site com Estrutura Completa</title>
+        <meta charset="utf-8">
+        <meta name="author" content="Matheus">
+        <meta name="description" content="Primeiro site Desenvolvido em Html">
+        <!--keywords criado apra palavras chaves facilitando o google encontrar-->
+        <meta name="keywords" content="Palavra, chave, para, SEO">
+    </head>
+
+
+
+
+    <!--estrutura do corpo-->
+    <body>
+        <h1>Projeto inicial</h1>
+        <p> Vabmos iniciar um projeto de desenvolvimento web em html + CSS + JavaScript.</p>
+    </body>
+
+
+</html>
