@@ -18,7 +18,11 @@
     <!--estrutura do corpo-->
     <body>
         <h1>Projeto inicial</h1>
+<<<<<<< HEAD
         <p> Vabmosll iniiciar um projeto de desenvolvimento web em html + CSS + JavaScript.</p>
+=======
+        <p> Vabmos iniciar um projeto de desenvolvimento web em html + CSS + JavaScript.</p>
+>>>>>>> 0152af08bc741b3a5b4cadb808ee420aca9e7c95
     </body>
 
 
