@@ -6,28 +6,29 @@ body{
 
 .hero{
     background-image: url(../imagens/bg-3.webp);
-    height: 500px;
+    height: 1000px;
     background-position: right center;
     background-size: cover;
-    border-top: 1px solid transparent;
+    border-top: 1px solid rgb(185, 185, 185);
 }
 
 .hero-content{
     text-align: center;
     color: white;
-    margin-top: 150px;
+    margin-top: 350px;
 }
 
 .hero-content h1{
     text-transform: uppercase;
     font-size: 60px;
     text-shadow: 3px 3px 2px rgba(51, 51, 51, 0.596);
+    font-size: 80px;
 }
 
 .hero-content p{
     background: rgba(0, 0, 0, 0.61);
     display: inline-block;
-    padding: 10px;
+    padding: 20px;
     border-bottom: 2px solid rgba(255, 255, 255, 0.582);
 }
 .hero nav ul{
