@@ -1,0 +1,65 @@
+body{
+    font-family: arial, sans-serif;
+    background: rgb(185, 185, 185);
+    margin: 0;
+  }
+
+.hero{
+    background-image: url(../imagens/bg-3.jpg);
+    height: 500px;
+    background-position: right center;
+    background-size: cover;
+    border-top: 1px solid transparent;
+}
+
+.hero-content{
+    text-align: center;
+    color: white;
+    margin-top: 150px;
+}
+
+.hero-content h1{
+    text-transform: uppercase;
+    font-size: 60px;
+    text-shadow: 3px 3px 2px rgba(51, 51, 51, 0.596);
+}
+.hero nav ul{
+    text-align: right;
+    margin:20px 30px 0px 0px;
+}
+.hero nav li{
+    display: inline-block;
+    list-style: none;
+    border: 1px solid white;
+}
+
+.hero nav a{
+    background: black;
+    background: rgba(0,0,0,0.3);
+    display: block;
+    padding: 12px;
+    color:rgba(224, 219, 219, 0.61);
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 13px;
+}
+
+.hero nav a:hover{
+    background: rgba(0,0,0,0.5);
+}
+main{
+    width: 80%;
+    margin: auto;
+}
+
+.content-section{
+    background-color: white;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+.rodape{
+    text-align: center;
+    padding-top: 30px;
+}
