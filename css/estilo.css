@@ -66,8 +66,8 @@ main{
     padding: 20px;
     margin-top: 15px;
     overflow: auto;
-}
 
+}
 .card{
     width: 32%;
     float: left;
@@ -75,18 +75,22 @@ main{
 }
 .card-1, .card-2{
     margin-right: 2%;
+
 }
 .card img {
     width: 100%;
     display: block;
+
 }
 .card p{
     background-color: rgba(0, 0, 0, 0.726);
     color:white;
     margin: 0;
     padding: 12px;
+
 }
 .rodape{
     text-align: center;
     padding-top: 30px;
+
 }
